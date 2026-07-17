@@ -7,7 +7,7 @@
 
 A pixel-perfect, fully responsive landing page built with React. This project demonstrates high-fidelity design translation from Figma to functional code, featuring advanced CSS layouts, absolute positioning for decorative elements, and a mobile-first interactive navigation system.
 
-### 🔗 [🚀 View Live Demo Here](VERCEL_LINK_HERE) 
+### 🔗 [🚀 View Live Demo Here](https://elementum-landing-page-lyart.vercel.app/) 
 
 ---
 
